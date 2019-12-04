@@ -4,5 +4,5 @@
 *[Broom](https://paulanavarroamat.github.io/Broom/)
 *[Tarjetes](https://paulanavarroamat.github.io/6_tarjetes/)
 *[Artist](https://paulanavarroamat.github.io/4_artist/)
-*[Grid_moma](https://paulanavarroamat.github.io/Grid/)
+*[Grid_moma](https://paulanavarroamat.github.io/grid-moma/)
 *[Landing_Page](https://paulanavarroamat.github.io/LandingPage/.)
