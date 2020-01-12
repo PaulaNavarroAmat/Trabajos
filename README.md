@@ -7,5 +7,5 @@
 *[Grid_moma](https://paulanavarroamat.github.io/grid-moma/)
 *[Landing_Page](https://paulanavarroamat.github.io/LandingPage/.)
 *[Mondrian](https://paulanavarroamat.github.io/Mondrian/.)
-*[Minimalissimon](https://paulanavarroamat.github.io/minimalissimo/.)
+*[Minimalissimon](https://paulanavarroamat.github.io/Minimalissimo/.)
 *[Transformaciones](https://paulanavarroamat.github.io/transformaciones/)
